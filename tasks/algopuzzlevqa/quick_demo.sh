@@ -13,7 +13,7 @@ CACHE_DIR="$TASK/cache"
 
 LLM="gpt-4o"
 
-ENABLED_TOOLS="Generalist_Solution_Generator_Tool"
+ENABLED_TOOLS="Text_Detector_Tool,Image_Captioner_Tool,Generalist_Solution_Generator_Tool"
 
 INDEX=0 
 

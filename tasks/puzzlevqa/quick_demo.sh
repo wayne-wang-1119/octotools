@@ -17,7 +17,6 @@ ENABLED_TOOLS="Text_Detector_Tool,Image_Captioner_Tool,Generalist_Solution_Gener
 
 INDEX=0
 
-echo $i
 python solve.py \
 --index $INDEX \
 --task $TASK \
