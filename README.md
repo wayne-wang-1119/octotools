@@ -19,7 +19,7 @@
 
 <!--- BADGES: START --->
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
-[![Arxiv](https://img.shields.io/badge/arXiv-2502.xxxxx-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2502.xxxxx)
+[![Arxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg?logo=arxiv)](assets/paper.pdf)
 [![Huggingface Demo](https://img.shields.io/badge/Huggingface-Demo-FFD21E.svg?logo=huggingface)](https://huggingface.co/spaces/OctoTools/octotools)
 [![Discord](https://img.shields.io/badge/Discord-OctoTools-D41544?logo=discord)](https://discord.gg/NMJx66DC)
 [![Tool Cards](https://img.shields.io/badge/Tool_Cards-OctoTools-2176BC?logo=octopusdeploy)](https://octotools.github.io/#tool-cards)
@@ -157,12 +157,12 @@ To demonstrate the generality of our **OctoTools** framework, we conduct compreh
 </p>
 
 
-More results are available in the [paper](https://arxiv.org/abs/2502.xxxxx) or at the [project page](https://octotools.github.io/).
+More results are available in the [paper](assets/paper.pdf) or at the [project page](https://octotools.github.io/).
 
 
 ### In-depth analysis
 
-We provide a set of in-depth analyses to help you understand the framework. For instance, we visualize the tool usage of **OctoTools** and its baselines  from 16 tasks. It turns out that **OctoTools** takes advantage of different external tools to address task-specific challenges. Explore more findings at our [paper](https://arxiv.org/abs/2502.xxxxx) or the [project page](https://octotools.github.io/#analysis).
+We provide a set of in-depth analyses to help you understand the framework. For instance, we visualize the tool usage of **OctoTools** and its baselines  from 16 tasks. It turns out that **OctoTools** takes advantage of different external tools to address task-specific challenges. Explore more findings at our [paper](assets/paper.pdf) or the [project page](https://octotools.github.io/#analysis).
 
 <a align="center">
     <img src="assets/result/tool_usage_ours_baselines.png" width="100%">
@@ -216,7 +216,7 @@ This project draws inspiration from several remarkable projects:
 @article{lu2025octotools,
     title={OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning},
     author={Lu, Pan and Chen, Bowen and Liu, Sheng and Thapa, Rahul and Boen, Joseph and Zou, James},
-    journal = {arXiv preprint arXiv:2502.xxxxx},
+    journal = {arXiv preprint arXiv:6208334 (submitted)},
     year={2025}
 }
 ```

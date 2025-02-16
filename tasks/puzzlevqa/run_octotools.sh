@@ -15,7 +15,7 @@ CACHE_DIR="$TASK/cache"
 
 LLM="gpt-4o-mini"
 
-ENABLED_TOOLS="Text_Detector_Tool,Image_Captioner_Tool,Generalist_Solution_Generator_Tool,Advance_Object_Detector_Tool"
+ENABLED_TOOLS="Text_Detector_Tool,Image_Captioner_Tool,Generalist_Solution_Generator_Tool,Advanced_Object_Detector_Tool"
 ############
 
 cd $PROJECT_DIR
