@@ -22,7 +22,7 @@ cd $PROJECT_DIR
 mkdir -p $LOG_DIR
 
 # Define the array of specific indices
-indices=($(seq 100 107))
+indices=($(seq 100 299))
 
 # Skip indices if the output file already exists
 new_indices=()

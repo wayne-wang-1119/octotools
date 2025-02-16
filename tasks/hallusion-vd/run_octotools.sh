@@ -15,7 +15,7 @@ CACHE_DIR="$TASK/cache"
 
 LLM="gpt-4o-mini"
 
-ENABLED_TOOLS="Generalist_Solution_Generator_Tool"
+ENABLED_TOOLS="Image_Captioner_Tool,Generalist_Solution_Generator_Tool"
 ############
 
 cd $PROJECT_DIR

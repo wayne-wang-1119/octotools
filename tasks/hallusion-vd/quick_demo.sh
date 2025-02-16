@@ -14,7 +14,7 @@ LLM="gpt-4o"
 
 ENABLED_TOOLS="Generalist_Solution_Generator_Tool"
 
-local i=0
+i=0
 
 python solve.py \
 --index $i \
