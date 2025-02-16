@@ -1,5 +1,5 @@
-{'code': 0, 'msg': 'ok', 'data': {'task_uuid': '2d4337f5-403d-419b-9832-64b0f888f146'}}
-task_uuid:2d4337f5-403d-419b-9832-64b0f888f146
+{'code': 0, 'msg': 'ok', 'data': {'task_uuid': 'fa11f5eb-a278-4702-9745-2e020d27702a'}}
+task_uuid:fa11f5eb-a278-4702-9745-2e020d27702a
 [
     {
         "label": "baseball",
