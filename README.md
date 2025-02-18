@@ -5,7 +5,7 @@
 <img src="assets/octotools.svg" alt="OctoTools Logo" width="100">
 </div>
 
-# OctoTools: An Agentic Framework with Extendable Tools for Complex Reasoning
+# OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning
 
 <!-- # <span style="color: #d41544">Octo</span><span style="color: #2176bc">Tools</span>: An Agentic Framework with Extendable Tools for Complex Reasoning -->
 
