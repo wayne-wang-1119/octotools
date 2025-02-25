@@ -242,7 +242,7 @@ This project draws inspiration from several remarkable projects:
             </td>
             <td align="center">
                 <a href="https://shengliu66.github.io/">
-                    <img src="https://shengliu66.github.io/images/sheng_profile.png" width="100;" alt="shengliu66"/>
+                    <img src="https://shengliu66.github.io/profile.jpg" width="100;" alt="shengliu66"/>
                     <br />
                     <sub><b>Sheng Liu</b></sub>
                 </a>
